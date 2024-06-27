@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models"
-date:   2023-08-28 22:21:59 +00:00
+date:   2024-08-28 22:21:59 +00:00
 image: /images/i2v.gif
 categories: research
 author: "Mingwu Zheng"
 authors: "Xun Guo*, <strong>Mingwu Zheng</strong>*, Liang Hou, Yuan Gao, Yufan Deng, Pengfei Wan, Di Zhang, Yufan Liu, Weiming Hu, Zhengjun Zha, Haibin Huang, Chongyang Ma"
-venue: "SIGGRAPH 2023"
+venue: "SIGGRAPH 2024"
 arxiv: https://arxiv.org/abs/2312.16693
 code: https://github.com/KwaiVGI/I2V-Adapter
 website: https://i2v-adapter-paper.github.io
