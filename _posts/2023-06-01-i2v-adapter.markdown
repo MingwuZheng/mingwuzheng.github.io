@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2312.16693
 code: https://github.com/KwaiVGI/I2V-Adapter
 website: https://i2v-adapter-paper.github.io
 ---
-*Equal contribution. An extremely lightweight adapter for animating your photos.
+An extremely lightweight adapter for animating your photos. (*Equal contribution)

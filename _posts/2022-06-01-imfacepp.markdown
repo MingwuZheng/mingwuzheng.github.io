@@ -10,4 +10,4 @@ venue: "arXiv 2023"
 arxiv: https://arxiv.org/abs/2312.04028
 code: https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B
 ---
-*Equal contribution. A extension of ImFace to accurately modeling high-frequency details of 3D faces.
+A extension of ImFace to accurately modeling high-frequency details of 3D faces. (*Equal contribution)
