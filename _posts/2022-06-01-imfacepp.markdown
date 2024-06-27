@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/imfacepp.gif
+categories: research
+author: "Mingwu Zheng"
+authors: "<strong>Mingwu Zheng*</strong>, Haiyu Zhang*, Hongyu Yang, Liming Chen, Di Huang"
+venue: "CVPR 2022"
+arxiv: https://arxiv.org/abs/2312.04028
+code: https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B
+---
+*Equal contribution. A extension of ImFace to accurately modeling high-frequency details of 3D faces.

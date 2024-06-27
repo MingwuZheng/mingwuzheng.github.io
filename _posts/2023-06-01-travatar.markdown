@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/travatar.png
+categories: research
+author: "Leo Keselman"
+authors: "Haotian Yang, <strong>Mingwu Zheng</strong>, Wanquan Feng, Haibin Huang, Yu-Kun Lai, Pengfei Wan, Zhongyuan Wang, Chongyang Ma"
+venue: "SIGGRAPH Asia 2023"
+arxiv: https://arxiv.org/abs/2309.04247
+website: https://travatar-paper.github.io
+---
+A framework for capturing high-fidelity 3D avatars that enables realistic relighting and real-time animation without the need for tracking. <strong>I proposed the idea of the linear relighting network in the paper</strong>.

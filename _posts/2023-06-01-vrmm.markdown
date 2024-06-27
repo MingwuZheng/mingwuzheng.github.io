@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images"
+date:   2023-08-28 22:21:59 +00:00
+image: /images/vrmm.png
+categories: research
+author: "Mingwu Zheng"
+authors: "Haotian Yang, <strong>Mingwu Zheng</strong>, Chongyang Ma, Yu-Kun Lai, Pengfei Wan, Haibin Huang"
+venue: "SIGGRAPH 2024"
+arxiv: https://arxiv.org/abs/2402.04101
+website: https://vrmm-paper.github.io/
+---
+To our best knowledge, our VRMM is the first capable of reconstructing high-quality animatable and relightable volumetric avatars from few-shot captures.
