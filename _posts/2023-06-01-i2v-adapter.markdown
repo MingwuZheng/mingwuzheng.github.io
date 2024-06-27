@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images"
+title:  "I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/i2v.gif
 categories: research
