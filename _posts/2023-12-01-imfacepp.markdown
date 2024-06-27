@@ -6,7 +6,7 @@ image: /images/imfacepp.gif
 categories: research
 author: "Mingwu Zheng"
 authors: "<strong>Mingwu Zheng*</strong>, Haiyu Zhang*, Hongyu Yang, Liming Chen, Di Huang"
-venue: "arXiv 2023"
+venue: "arXiv"
 arxiv: https://arxiv.org/abs/2312.04028
 code: https://github.com/MingwuZheng/ImFace/tree/imface%2B%2B
 ---

@@ -6,7 +6,7 @@ image: /images/travatar.png
 categories: research
 author: "Leo Keselman"
 authors: "Haotian Yang, <strong>Mingwu Zheng</strong>, Wanquan Feng, Haibin Huang, Yu-Kun Lai, Pengfei Wan, Zhongyuan Wang, Chongyang Ma"
-venue: "SIGGRAPH Asia 2023"
+venue: "SIGGRAPH Asia"
 arxiv: https://arxiv.org/abs/2309.04247
 website: https://travatar-paper.github.io
 ---

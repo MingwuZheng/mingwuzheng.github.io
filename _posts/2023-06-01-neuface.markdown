@@ -6,7 +6,7 @@ image: /images/neuface.gif
 categories: research
 author: "Mingwu Zheng"
 authors: "<strong>Mingwu Zheng</strong>, Haiyu Zhang, Hongyu Yang, Di Huang"
-venue: "CVPR 2023"
+venue: "CVPR"
 arxiv: https://arxiv.org/abs/2303.14092
 code: https://github.com/aejion/NeuFace
 ---

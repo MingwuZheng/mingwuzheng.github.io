@@ -6,7 +6,7 @@ image: /images/imface.gif
 categories: research
 author: "Mingwu Zheng"
 authors: "<strong>Mingwu Zheng</strong>, Hongyu Yang, Di Huang, Liming Chen"
-venue: "CVPR 2022"
+venue: "CVPR"
 arxiv: https://arxiv.org/abs/2203.14510
 code: https://github.com/MingwuZheng/ImFace
 ---

@@ -6,7 +6,7 @@ image: /images/vrmm.png
 categories: research
 author: "Mingwu Zheng"
 authors: "Haotian Yang, <strong>Mingwu Zheng</strong>, Chongyang Ma, Yu-Kun Lai, Pengfei Wan, Haibin Huang"
-venue: "SIGGRAPH 2024"
+venue: "SIGGRAPH"
 arxiv: https://arxiv.org/abs/2402.04101
 website: https://vrmm-paper.github.io/
 ---
